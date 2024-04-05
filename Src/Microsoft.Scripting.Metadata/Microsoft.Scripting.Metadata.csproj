@@ -6,6 +6,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <DefineConstants>$(DefineConstants);CCI</DefineConstants>
+    <AssemblyName>pyRevitLabs.Microsoft.Scripting.Metadata</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
