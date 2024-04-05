@@ -8,10 +8,10 @@ using System;
 namespace Microsoft.Scripting {
 
     /// <summary>
-    /// This class holds onto internal debugging options used in this assembly. 
+    /// This class holds onto internal debugging options used in this assembly.
     /// These options can be set via environment variables DLR_{option-name}.
     /// Boolean options map "true" to true and other values to false.
-    /// 
+    ///
     /// These options are for internal debugging only, and should not be
     /// exposed through any public APIs.
     /// </summary>
